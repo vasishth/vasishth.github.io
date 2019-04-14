@@ -1,0 +1,243 @@
+<title>Shravan Vasishth's home page</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="../images/lorikeet.jpg">
+
+</head>
+<body>
+
+<section class="about">
+  <div class="container">
+    <h4>Shravan Vasishth</h4>
+
+    <div class="row">
+        <div class="one-half column">
+
+     <img src="http://www.ling.uni-potsdam.de/~vasishth/images/sv.jpeg", align="center",  height="250">
+
+        </div>
+        <div class="one-half column">
+<h6>
+Professor, <a href="http://www.ling.uni-potsdam.de/en/">Dept. of Linguistics</a>, <a href="http://www.uni-potsdam.de/en/university-of-potsdam.html">University of Potsdam</a>, 14476 Potsdam, Germany <br>
+
+Speaker, <a href="http://www.uni-potsdam.de/humfak/hum-forschungsschwerpunkte/forschungscluster-sprache.html">Language Cluster</a>, <a href="http://www.uni-potsdam.de/humfak/hum-exzellenzbereich.html">Cognitive Science</a><br>
+
+Phone: +49-(0)331-977-2950 | Fax: - 2087 | Email: vasishth at uni-potsdam.de<br>
+
+<a href="http://www.ling.uni-potsdam.de/~vasishth/GPGkey/shravanvasishthpublickey.txt">GPG public key</a>,
+<a href="http://orcid.org/0000-0003-2027-1994">Orcid ID</a>,
+<a href="https://scholar.google.de/citations?user=HdcXwdUAAAAJ&hl=en">google scholar</a>,
+<a href="https://github.com/vasishth">github</a>,
+<a href="https://bitbucket.org/vasishth">bitbucket</a>,
+<a href="http://vasishth-statistics.blogspot.de/">statistics blog</a>,
+<a href="http://vasishthlab.blogspot.de/">vasishth lab blog</a><br>
+<!--
+Doing a PhD with me</strong>: <a href="http://www.ling.uni-potsdam.de/~vasishth/doingaphdwithme.html">README.1st</a>
+-->
+</h6>
+
+<a class="button button-primary" href="http://www.ling.uni-potsdam.de/~vasishth/index.html">Back to home page</a>
+
+        </div>
+    </div>
+</div>
+<hr/>
+
+</section>
+
+<section class="about">
+
+  <div class="container">
+  <div class="row">
+  <div class="column">
+
+<p>
+<h3>Bayesian Linear Mixed Models using Stan: A tutorial for psychologists, linguists, and cognitive scientists</h3>
+
+<strong>by Tanner Sorensen, Sven Hohenstein, Shravan Vasishth, 
+In Press: Quantitative Methods for Psychology</strong>
+<br>
+
+
+<b>The published paper is available <a href="http://www.tqmp.org/RegularArticles/vol12-3/p175/p175.pdf">here</a>.</b>
+
+<br>	
+You can download all the source code from <a href="https://github.com/vasishth/BayesLMMTutorial">here</a>. Please look at the doc directory for the paper and run the code embedded in the Rnw file.
+<br><br>
+
+The reader may also benefit from this more introductory review of Bayesian methods intended for linguists and psychologists: <a href="http://www.ling.uni-potsdam.de/~vasishth/pdfs/StatMethLingPart2ArXiv.pdf"> Statistical methods for linguistic research: Foundational Ideas - Part II</a>. Part I covers frequentist methods (it is in press with Language and Linguistic Compass) and is available 
+<a href="http://www.ling.uni-potsdam.de/~vasishth/pdfs/StatMethLingPart1.pdf">here</a>.
+
+<br>
+
+
+<h4>Further examples</h4>
+
+<ol>
+<li>The <a href="https://github.com/dmbates/RePsychLing">RePsychLing</a> package, by Bates, Kliegl, Vasishth, and Baayen has examples of linear mixed models using Stan. See, for example, the R markdown file KBStan.Rmd in vignettes; the code here is the most efficient of the examples shown as the computations are done in matrix form.
+<li>More Stan and JAGS examples are <a href="https://github.com/vasishth/StanJAGSexamples">here</a>.</li>
+</ol>
+
+
+<h4>Papers we have published (or submitted or in press) using Stan and JAGS</h4>
+
+<dl>
+<dt>
+[<a name="FrankEtAl2015">1</a>]
+</dt>
+<dd>
+Stefan&nbsp;L. Frank, Thijs Trompenaars, and Shravan Vasishth.
+ <b>Cross-linguistic differences in processing double-embedded
+  relative clauses: Working-memory constraints or language statistics?</b>
+ <em>Cognitive Science</em>, page n/a, 2015.
+ accepted pending minor revisions.
+[&nbsp;<a href="https://github.com/vasishth/StanJAGSexamples/tree/master/FrankEtAlCogSci2015">code</a>&nbsp;| 
+<a href="http://www.ling.uni-potsdam.de/~vasishth/pdfs/FrankTrompenaarsVasishthCogSci.pdf">pdf</a>&nbsp;]
+<blockquote><font size="-1">
+An English double-embedded relative clause from which the middle verb is omitted can often be processed more easily than its grammatical counterpart, a phenomenon known as the grammaticality illusion. This effect has been found to be reversed in German, suggesting that the illusion is language specific rather than a consequence of universal working memory constraints. We present results from three self-paced reading experiments which show that Dutch native speakers also do not show the grammaticality illusion in Dutch, whereas both German and Dutch native speakers do show the illusion when reading English sentences. These findings provide evidence against working memory constraints as an explanation for the observed effect in English. We propose an alternative account based on the statistical patterns of the languages involved. In support of this alternative, a single recurrent neural network model that is trained on both Dutch and English sentences indeed predicts the cross-linguistic difference in grammaticality effect.
+</font></blockquote>
+<p>
+</dd>
+
+<dt>
+[<a name="HofmeisterVasishth2014">2</a>]
+</dt>
+<dd>
+Philip Hofmeister and Shravan Vasishth.
+ <b>Distinctiveness and encoding effects in online sentence
+  comprehension</b>.
+ 5:1-13, 2014.
+ Article 1237.
+[&nbsp;<a href="http://dx.doi.org/doi: 10.3389/fpsyg.2014.01237">DOI</a>&nbsp;| 
+<a href="http://privatewww.essex.ac.uk/~phofme/Univ3-Frontiers.zip">code</a>&nbsp;| 
+<a href="http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.01237/abstract">pdf</a>&nbsp;]
+<blockquote><font size="-1">
+In explicit memory recall and recognition tasks, elaboration and contextual isolation both facilitate memory performance. Here, we investigate these effects in the context of sentence processing: targets for retrieval during online sentence processing of English object relative clause constructions differ in the amount of elaboration associated with the target noun phrase, or the homogeneity of superficial features (text color). Experiment 1 shows that greater elaboration for targets during the encoding phase reduces reading times at retrieval sites, but elaboration of non-targets has considerably weaker effects. Experiment 2 illustrates that processing isolated superficial features of target noun phrases—here, a green word in a sentence with words colored white—does not lead to enhanced memory performance, despite triggering longer encoding times. These results are interpreted in the light of the memory models of Nairne, 1990, 2001, 2006, which state that encoding remnants contribute to the set of retrieval cues that provide the basis for similarity-based interference effects.
+</font></blockquote>
+<p>
+</dd>
+
+<dt>
+[<a name="HusainEtAl2014">3</a>]
+</dt>
+<dd>
+Samar Husain, Shravan Vasishth, and Narayanan Srinivasan.
+ <b>Strong Expectations Cancel Locality Effects: Evidence from
+  Hindi</b>.
+ <em>PLoS ONE</em>, 9(7):1-14, 2014.
+[&nbsp;<a href="http://www.ling.uni-potsdam.de/~vasishth/code/HusainEtAl2014PLoSONE.zip">code</a>&nbsp;| 
+<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100986">pdf</a>&nbsp;]
+<blockquote><font size="-1">
+Expectation-driven facilitation (Hale, 2001; Levy, 2008) and locality-driven retrieval difficulty (Gibson, 1998, 2000; Lewis &
+Vasishth, 2005) are widely recognized to be two critical factors in incremental sentence processing; there is accumulating
+evidence that both can influence processing difficulty. However, it is unclear whether and how expectations and memory
+interact. We first confirm a key prediction of the expectation account: a Hindi self-paced reading study shows that when an
+expectation for an upcoming part of speech is dashed, building a rarer structure consumes more processing time than
+building a less rare structure. This is a strong validation of the expectation-based account. In a second study, we show that
+when expectation is strong, i.e., when a particular verb is predicted, strong facilitation effects are seen when the appearance
+of the verb is delayed; however, when expectation is weak, i.e., when only the part of speech &ldquo;verb&rdquo; is predicted but a
+particular verb is not predicted, the facilitation disappears and a tendency towards a locality effect is seen. The interaction
+seen between expectation strength and distance shows that strong expectations cancel locality effects, and that weak
+expectations allow locality effects to emerge.
+</font></blockquote>
+<p>
+</dd>
+
+<dt>
+[<a name="VasishthetalPLoSOne2013">4</a>]
+</dt>
+<dd>
+Shravan Vasishth, Zhong Chen, Qiang Li, and Gueilan Guo.
+ <b>Processing Chinese Relative Clauses: Evidence for the
+  Subject-Relative Advantage</b>.
+ <em>PLoS ONE</em>, 8(10):1-14, 10 2013.
+[&nbsp;<a href="http://www.ling.uni-potsdam.de/~vasishth/code/PLoSOneVasishthetaldata.zip">code</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1371%2Fjournal.pone.0077006">pdf</a>&nbsp;]
+<blockquote><font size="-1">
+A general fact about language is that subject relative clauses are easier to process than object relative clauses. Recently, several self-paced reading studies have presented surprising evidence that object relatives in Chinese are easier to process than subject relatives. We carried out three self-paced reading experiments that attempted to replicate these results. Two of our three studies found a subject-relative preference, and the third study found an object-relative advantage. Using a random effects Bayesian meta-analysis of fifteen studies (including our own), we show that the overall current evidence for the subject-relative advantage is quite strong (approximate posterior probability of a subject-relative advantage given the data: 78–80%). We argue that retrieval/integration based accounts would have difficulty explaining all three experimental results. These findings are important because they narrow the theoretical space by limiting the role of an important class of explanation—retrieval/integration cost—at least for relative clause processing in Chinese.
+</font></blockquote>
+<p>
+</dd>
+
+
+<dt>
+[<a name="PaapeVasishth2015">5</a>]
+</dt>
+<dd>
+Dario Paape and Shravan Vasishth.
+ <b>Local coherence and preemptive digging-in effects in German</b>.
+ MS, accepted pending minor revisions, Language and Speech, 2015.
+<blockquote><font size="-1">
+SOPARSE (Tabor &amp; Hutchins, 2004) predicts so-called local coherence effects: locally plausible but globally impossible parses of substrings can exert a distracting influence during sentence processing. Additionally, it predicts digging-in effects: the longer the parser stays committed to a particular analysis, the harder it becomes to inhibit that analysis. We investigated the interaction of these two predictions using German sentences. Results from a self-paced reading study show that the processing difficulty caused by a local coherence can be reduced by first allowing the globally correct parse to become entrenched, which supports SOPARSE’s assumptions.
+</font></blockquote>
+<p>
+</dd>
+
+<dt>
+[<a name="HusainVasishthNarayanan2015">6</a>]
+</dt>
+<dd>
+Samar Husain, Shravan Vasishth, and Narayanan Srinivasan.
+ <b>Integration and prediction difficulty in Hindi sentence
+  comprehension: Evidence from an eye-tracking corpus</b>.
+ <em>Journal of Eye Movement Research</em>, 8(2):1-12, 2015.
+[&nbsp;<a href="http://www.ling.uni-potsdam.de/~vasishth/pdfs/HusainEtAlETHindiJEMR2015.pdf">pdf</a>&nbsp;]
+<blockquote><font size="-1">
+This is the first attempt at characterizing reading difficulty in Hindi using naturally occurring sentences. We created the Potsdam-Allahabad Hindi Eyetracking Corpus by recording eye-movement data from 30 participants at the University of Allahabad, India. The target stimuli were 153 sentences selected from the beta version of the Hindi-Urdu treebank. We find that word- or low-level predictors (syllable length, unigram and bigram frequency) affect first-pass reading times, regression path duration, total reading time, and outgoing saccade length. An increase in syllable length results in longer fixations, and an increase in word unigram and bigram frequency leads to shorter fixations. Longer syllable length and higher frequency lead to longer outgoing saccades. We also find that two predictors of sentence comprehension diffi- culty, integration and storage cost, have an effect on reading difficulty. Integration cost (Gibson, 2000) was approximated by calculating the distance (in words) between a dependent and head; and storage cost (Gibson, 2000), which measures difficulty of maintaining predictions, was estimated by counting the number of predicted heads at each point in the sentence. We find that integration cost mainly affects outgoing saccade length, and storage cost affects total reading times and outgoing saccade length. Thus, word-level predictors have an effect in both early and late measures of reading time, while predictors of sentence comprehension difficulty tend to affect later measures. This is, to our knowledge, the first demonstration using eye-tracking that both integration and storage cost influence reading difficulty.
+</font></blockquote>
+<p>
+</dd>
+
+
+
+</dl>
+
+
+<br>
+Please send comments and corrections regarding this page to : vasishth SQUIGGLE ling dot uni hyphen potsdam dot de.
+</p></div>
+
+
+<p>
+<i><SCRIPT SRC="scripts/datemod.js" LANGUAGE="JavaScript"></SCRIPT></i>
+</p>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=3480921; 
+var sc_invisible=1; 
+var sc_security="6280d38c"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="web analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/3480921/0/6280d38c/1/"
+alt="web analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+</div>
+</div>
+</div>
+</section>
+
+
+</body>
+</html>

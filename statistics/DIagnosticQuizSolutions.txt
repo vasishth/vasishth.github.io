@@ -1,0 +1,103 @@
+Thank you for taking the quiz. The solutions are:
+
+You can check your answers with this key:  
+
+Question 1: Standard error is:
+
+a. the standard deviation of the sample scores
+b. the standard deviation of the distribution of sample means
+c. the square root of the sample variance
+d.  2 times the standard deviation of sample scores
+
+Answer: b.
+
+Question 2: If we sum up the differences of each sample score from the sample's mean (average) we will always get
+ 
+a. a large number
+b. the number zero
+c. a different number each time, sometimes large, sometimes small
+d. the number one
+
+Answer: b.
+
+Question 3: As sample size increases, the standard error of the sample
+
+a. increases
+b. decreases
+c. remains unchanged
+d. could increase or decrease depending on the data
+
+Answer: b.
+
+Question 4: The 95% confidence interval tells you
+
+a. that the probability is 95% that the population mean is equal to the sample mean
+b. that the sample mean lies within this interval with probability 95%
+c. that the population mean lies within this interval with probability 95%
+d. none of the above
+
+Answer: d.
+
+Question 5: The 95% confidence interval is roughly equal to
+
+a. 0.5 times the standard error
+b. 1 times the standard error
+c. 1.5 times the standard error
+d. 2 times the standard error
+
+Answer: d.
+
+Question 6: The 95% confidence interval is --- the 90% confidence interval
+
+a. wider than
+b. narrower than
+c. the same as
+
+Answer: a.
+
+Question 7: The frequentist p-value is
+
+a. the probability of the null hypothesis being true
+b. the probability of the null hypothesis being false
+c. the probability of the alternative hypothesis being true
+d. the probability of getting the absolute value of the sample mean that you got (or a value more extreme) assuming the null hypothesis is true
+e. the probability of getting the absolute value of the sample mean that you got (or a value less extreme) assuming the null hypothesis is true
+
+Answer: d.
+
+Question 8: If Type I error probability, alpha, is 0.05 in a t-test, then
+
+a. we have a 5% probability of rejecting the null hypothesis when it is actually true
+b. we have a 95% probability of rejecting the null hypothesis when it is actually true
+c. we necessarily have low power
+d. we necessarily have high power
+
+Answer: a.
+
+Question 9: Type II error probability is
+
+a. the probability of accepting the null when it's true
+b. the probability of accepting the null when it's false
+c. the probability of rejecting the null when it's true
+d. the probability of rejecting the null when it's false
+
+Answer: b.
+
+Question 10: When power increases
+
+a. Type II error probability decreases
+b. Type II error probability increases
+c. Type II error probability remains unchanged
+
+Answer: a.
+
+Question 11: If we compare two means from two samples, and the p-value is greater than 0.05, we can conclude
+
+a. that the two samples comes from two populations with different means
+b. that the two samples comes from two populations with identical means
+c. that we don't know whether two samples comes from two populations with identical means or not
+
+Answer: c.
+
+If you didn't get everything right, don't be upset or disappointed; this topic is difficult!
+
