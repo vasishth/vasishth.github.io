@@ -11,7 +11,7 @@ cp vasishthcv4.pdf /Users/shravanvasishth/Git/vasishth.github.io/CV/
 ## return to home page directory:
 cd /Users/shravanvasishth/Git/vasishth.github.io/
 
-git commit -m "add updated cv" CV/vasishthcv4.pdf
+git commit -m "add updated cv" cv/vasishthcv4.pdf
 
 ## change to main bib directory to update articles:
 cd ~/Dropbox/Bibliography/
