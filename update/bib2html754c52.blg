@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ./bib2html754c52.aux
+The style file: dsgplain2.bst
+Database file #1: vasishthinproc.bib
+Repeated entry---line 179 of file vasishthinproc.bib
+ : @inproceedings{SafaviEtAl2016CUNY
+ :                                  ,
+I'm skipping whatever remains of this entry
+You've used 31 entries,
+            2397 wiz_defined-function locations,
+            706 strings with 11097 characters,
+and the built_in function-call counts, 12836 in all, are:
+= -- 1377
+> -- 590
+< -- 13
++ -- 294
+- -- 198
+* -- 878
+:= -- 1969
+add.period$ -- 96
+call.type$ -- 31
+change.case$ -- 190
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 589
+empty$ -- 968
+format.name$ -- 198
+if$ -- 2838
+int.to.chr$ -- 0
+int.to.str$ -- 93
+missing$ -- 31
+newline$ -- 158
+num.names$ -- 64
+pop$ -- 338
+preamble$ -- 1
+purify$ -- 190
+quote$ -- 0
+skip$ -- 290
+stack$ -- 0
+substring$ -- 650
+swap$ -- 158
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 124
+warning$ -- 0
+while$ -- 77
+width$ -- 33
+write$ -- 356
+(There was 1 error message)

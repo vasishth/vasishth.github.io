@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ./bib2html1a707a.aux
+The style file: dsgplain2.bst
+Database file #1: vasishtharticles.bib
+Repeated entry---line 776 of file vasishtharticles.bib
+ : @article{Hanneetal2014
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in HofmeisterVasishth2014
+Warning--empty journal in keshtiarivasishth2013
+You've used 39 entries,
+            2397 wiz_defined-function locations,
+            798 strings with 12807 characters,
+and the built_in function-call counts, 16398 in all, are:
+= -- 1814
+> -- 743
+< -- 9
++ -- 367
+- -- 246
+* -- 1291
+:= -- 2600
+add.period$ -- 125
+call.type$ -- 39
+change.case$ -- 234
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 582
+empty$ -- 1122
+format.name$ -- 246
+if$ -- 3451
+int.to.chr$ -- 0
+int.to.str$ -- 117
+missing$ -- 39
+newline$ -- 200
+num.names$ -- 88
+pop$ -- 242
+preamble$ -- 1
+purify$ -- 234
+quote$ -- 0
+skip$ -- 357
+stack$ -- 0
+substring$ -- 1299
+swap$ -- 136
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 156
+warning$ -- 2
+while$ -- 132
+width$ -- 41
+write$ -- 435
+(There was 1 error message)

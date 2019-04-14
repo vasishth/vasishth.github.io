@@ -1,0 +1,787 @@
+\begin{thebibliography}{100}
+
+\bibitem{NicenboimEtAl2014Amlap}
+Bruno Nicenboim, Shravan Vasishth, and Reinhold Kliegl.
+\newblock {\bf Readers with less cognitive control are more affected by
+  surprising content}.
+\newblock In {\em Architectures and Mechanisms for Language Processing
+  ({AMLaP})}, September 2014.
+
+\bibitem{lewisvasishthACTR05}
+Richard Lewis and Shravan Vasishth.
+\newblock {\bf Toward Zero-Parameter Predictions of Reading Times: A New
+  Computational Theory of Sentence Comprehension as Skilled Working Memory
+  Retrieval}.
+\newblock In {\em Proceedings of the {CUNY} {S}entence {P}rocessing
+  {C}onference}, University of Arizona, 2005.
+
+\bibitem{lewisvasishthCrossSerial05}
+Richard~L. Lewis and Shravan Vasishth.
+\newblock {\bf A Hypothesis about Serial Order Information in Parsing (that
+  Yields a Novel Explanation of Center-Embedding Difficulty)}.
+\newblock In {\em Proceedings of the {CUNY} {S}entence {P}rocessing
+  {C}onference}, University of Arizona, 2005.
+
+\bibitem{vasishthetalRC05}
+Shravan Vasishth, Rama~Kant Agnihotri, Eva~M. Fern{\'a}ndez, and Rajesh Bhatt.
+\newblock {\bf {Noun modification preferences in Hindi}}.
+\newblock In {\em Proceedings of Construction of Knowledge conference}, Vidya
+  Bhawan Society, Udaipur, 2005.
+
+\bibitem{vasishthNPI05}
+Shravan Vasishth, Heiner Drenhaus, Doug Saddy, and Richard Lewis.
+\newblock {\bf Processing Negative Polarity}.
+\newblock In {\em Proceedings of the {CUNY} {S}entence {P}rocessing
+  {C}onference}, University of Arizona, 2005.
+
+\bibitem{vasishthtl04}
+Shravan Vasishth.
+\newblock {\bf Decay and similarity in sentence processing}.
+\newblock In {\em Technical Report, IEICE}, Tokyo, Japan, 2004.
+
+\bibitem{vasishthetalamlap04}
+Shravan Vasishth, Eva~M. Fern{\'a}ndez, Rama~Kant Agnihotri, and Rajesh Bhatt.
+\newblock {\bf Relative Clause Attachment in {H}indi: Effects of {RC length and
+  RC placement}}.
+\newblock In {\em Proceedings of the {AMLaP Conference}}, Aix en Provence,
+  France, 2004.
+
+\bibitem{vasishthlewis04}
+Shravan Vasishth and Richard Lewis.
+\newblock {\bf Modeling Sentence Processing in {ACT-R}}.
+\newblock In {\em Proceedings of the {Workshop on Incremental Parsing, 42nd
+  Annual Meeting of the Association for Computational Linguistics}}, Barcelona,
+  Spain, 2004.
+
+\bibitem{VSUWKCUNY04}
+Shravan Vasishth, Christoph Scheepers, Hans Uszkoreit, Joel Wagner, and
+  G.~J.~M. Kruijff.
+\newblock {\bf Constraint defeasibility and concurrent constraint satisfaction
+  in human sentence processing}.
+\newblock In {\em Proceedings of the {CUNY Sentence Processing Conference}},
+  MIT, Cambridge, MA, 2004.
+
+\bibitem{vasishthuszkoreitamlap04}
+Shravan Vasishth and Hans Uszkoreit.
+\newblock {\bf Self center embeddings revisited}.
+\newblock In {\em Proceedings of the {Architectures and Mechanisms for Language
+  Processing Conference}}, Aix en Provence, 2004.
+
+\bibitem{vasishthfrontingeurocogsci03}
+Shravan Vasishth.
+\newblock {\bf Discourse context sometimes fails to neutralize default word
+  order preferences: {T}he interaction between working memory constraints and
+  information structure}.
+\newblock In {\em {Proceedings of the European Cognitive Science Conference
+  (Osnabr{\"u}ck)}}, 2003.
+
+\bibitem{NicenboimEtAl2014Mapll2}
+Bruno Nicenboim, Pavel Loga{\v c}ev, Carolina Gattei, and Shravan Vasishth.
+\newblock {\bf When high-capacity readers slow down and low-capacity readers
+  speed up: {Working memory differences in unbounded dependencies for German
+  and Spanish readers}}.
+\newblock In {\em Mental Architecture for Processing and Learning of Language
+  ({MAPLL})}, August 2014.
+
+\bibitem{vasishtheurocogsci03}
+Shravan Vasishth.
+\newblock {\bf Quantifying processing difficulty in human sentence parsing:
+  {T}he role of decay, activation, and similarity-based interference}.
+\newblock In {\em {Proceedings of the European Cognitive Science Conference
+  (Osnabr{\"u}ck)}}. Lawrence Erlbaum, 2003.
+
+\bibitem{vasishthcuny03}
+Shravan Vasishth.
+\newblock {\bf The referential (in)accessibility of definite/indefinite
+  subjects and objects}.
+\newblock In {\em {Proceedings of the CUNY Sentence Processing conference}},
+  MIT, Boston, 2003.
+
+\bibitem{vcsw03}
+Shravan Vasishth, Irene Cramer, Christoph Scheepers, and Joel Wagner.
+\newblock {\bf Does increasing distance facilitate processing?}
+\newblock In {\em Proceedings of the {16th Annual CUNY Sentence Processing
+  Conference}}, MIT, Cambridge, MA, 2003.
+
+\bibitem{vlactr03}
+Shravan Vasishth and Richard Lewis.
+\newblock {\bf Decay and interference in human sentence parsing}.
+\newblock In {\em {Proceedings of the Annual ACT-R Workshop (Carnegie
+  Mellon)}}, 2003.
+
+\bibitem{vasishthlewis03}
+Shravan Vasishth and Richard Lewis.
+\newblock {\bf Decay and interference in human sentence processing: {P}arsing
+  in a unified theory of cognition}.
+\newblock In {\em Proceedings of the {16th Annual CUNY Sentence Processing
+  Conference}}, MIT, Cambridge, MA, 2003.
+
+\bibitem{vasishthamlap03}
+Shravan Vasishth and Richard Lewis.
+\newblock {\bf The role of decay and activation in human sentence processing}.
+\newblock In {\em Proceedings of the {AMLaP Conference}}, Glasgow, Scotland,
+  2003.
+
+\bibitem{vasishthamlap02}
+Shravan Vasishth.
+\newblock {\bf Distance effects or similarity-based interference? A model
+  comparison perspective}.
+\newblock In {\em Proceedings of the {Architectures and Mechanisms for Language
+  Processing Conference}}, Tenerife, Canary Islands, 2002.
+
+\bibitem{vasishthjosephbls02}
+Shravan Vasishth and Brian~D. Joseph.
+\newblock {\bf Constellations, {P}olysemy, and {H}indi {\em -ko}}.
+\newblock In {\em Proceedings of the {Berkeley Linguistics Society
+  Conference}}, University of Berkeley, CA, 2002.
+
+\bibitem{vasishthosuwpl01}
+Shravan Vasishth.
+\newblock {\bf An empirical evaluation of sentence processing models: Center
+  Embeddings in {H}indi}.
+\newblock In Michael Daniels, David Dowty, Anna Feldman, and Vanessa Metcalf,
+  editors, {\em {OSUWPL}, {V}olume 56}, pages 159--181, Ohio State University,
+  2001.
+
+\bibitem{vasishth01}
+Shravan Vasishth.
+\newblock {\bf Processing {H}indi Center Embeddings}.
+\newblock In {\em Proceedings of the {CUNY} {S}entence {P}rocessing
+  {C}onference}, page~36, University of Pennsylvania, Philadelphia, 2001.
+
+\bibitem{NicenboimEtAl2014Mapll}
+Bruno Nicenboim, Shravan Vasishth, and Reinhold Kliegl.
+\newblock {\bf Readers with less cognitive control are more affected by
+  surprising content: {Evidence from a self-paced reading experiment in
+  German}}.
+\newblock In {\em Mental Architecture for Processing and Learning of Language
+  ({MAPLL})}, August 2014.
+
+\bibitem{vasishthjnpi01}
+Shravan Vasishth.
+\newblock {\bf Quantificational elements and polarity licensing in Japanese}.
+\newblock In Mineharu Nakayama and Jr. Charles J.~Quinn, editors, {\em
+  Japanese/{K}orean {L}inguistics, {V}olume 9}, Stanford, CA, 2001. CSLI
+  Publications.
+
+\bibitem{vasishthkruijffosuwpl01}
+Shravan Vasishth and Geert-Jan~M. Kruijff.
+\newblock {\bf Sentence processing as abduction+deduction}.
+\newblock In Michael Daniels, David Dowty, Anna Feldman, and Vanessa Metcalf,
+  editors, {\em {OSUWPL}, {V}olume 56}, pages 183--207, Ohio State University,
+  2001.
+
+\bibitem{schwentervasishth00}
+Scott~A. Schwenter and Shravan Vasishth.
+\newblock {\bf Absolute and Relative Scalar Particles in {S}panish and
+  {H}indi}.
+\newblock In {\em Proceedings of the 26th {B}erkeley {L}inguistics {S}ociety
+  {C}onference}, pages 225--233, Berkeley, CA, 2000.
+
+\bibitem{vasishthWONPIHindi}
+Shravan Vasishth.
+\newblock {\bf Word order, negation, and negative polarity in Hindi}.
+\newblock In Amanda Miller-Ockhuizen, Robert Levine, and Anthony~J. Gonsalves,
+  editors, {\em {OSUWPL}, {V}olume 53}, pages 108--131, Ohio State University,
+  2000.
+
+\bibitem{vasishthkruijffesslli00}
+Shravan Vasishth and Geert-Jan~M. Kruijff.
+\newblock {\bf Processing as abduction: a sentence processing model}.
+\newblock In {\em Proceedings of the {W}orkshop on {L}inguistic {T}heory and
+  {G}rammar {I}mplementation}, Birmingham University, England, 2000.
+\newblock http://www.cs.bham.ac.uk/\~{}esslli/notes/meurers.html.
+
+\bibitem{vasishth98}
+Shravan Vasishth.
+\newblock {\bf Monotonicity constraints on negative polarity in {H}indi}.
+\newblock In Mary Bradshaw, David Odden, and Derek Wyckoff, editors, {\em
+  {OSUWPL}, {V}olume 51}, Ohio State University, 1998.
+
+\bibitem{gug05}
+Katja Suckow, Shravan Vasishth, and Richard~L. Lewis.
+\newblock {\bf Interference and memory overload during parsing}.
+\newblock In {\em Proceedings of AMLaP 2005}, Ghent, Belgium, September. Ghent
+  University.
+
+\bibitem{Jaegereral2014c}
+Lena J\"{a}ger, Felix Engelmann, and Shravan Vasishth.
+\newblock {\bf {Inhibitory interference in reflexives: Evidence for cue
+  confusability}}.
+\newblock In {\em {AMLaP Conference}}, Edinburgh, 2014. University of
+  Edinburgh.
+
+\bibitem{LogacevEtAl2014CUNY}
+Pavel Loga{\v c}ev and Shravan Vasishth.
+\newblock {\bf Underspecification in {RC} attachment: {A} speed-accuracy
+  tradeoff analysis}.
+\newblock In {\em {Proceedings of the 27th Annual CUNY Conference on Sentence
+  Processing}}, page n/a, Columbus, OH, USA, 2014.
+
+\bibitem{MetzneretalSNL2014}
+Paul Metzner, Titus von~der Malsburg, Shravan Vasishth, and Frank R{\"o}sler.
+\newblock {\bf Different recovery strategies in sentence processing can be
+  disentangled using coregistered eye movements and brain potentials}.
+\newblock In {\em {Proceedings of the Sixth Annual Society for the Neurobiology
+  of Language Conference}}, Amsterdam, Netherlands, 2014.
+
+\bibitem{MetzneretalOeGP2014}
+Paul Metzner, Titus von~der Malsburg, Shravan Vasishth, and Frank R{\"o}sler.
+\newblock {\bf Neural oscillations in natural reading}.
+\newblock In {\em {11. Tagung der {\"O}sterreichischen Gesellschaft f{\"u}r
+  Psychologie}}, Vienna, Austria, 2014.
+
+\bibitem{MetzneretalAMLaP2014}
+Paul Metzner, Titus von~der Malsburg, Shravan Vasishth, and Frank R{\"o}sler.
+\newblock {\bf Recovering from syntactic and semantic violations: The
+  relationship between eye movements and brain responses}.
+\newblock In {\em {Proceedings of the 20th Architectures and Mechanisms for
+  Language Processing}}, Edinburgh, United Kingdom, 2014.
+
+\bibitem{MetznerEtAl2014CUNY}
+Paul Metzner, Titus von~der Malsburg, Shravan Vasishth, and Frank Rösler.
+\newblock {\bf The relationship between regressive saccades and the P600
+  effect: {Evidence from concurrent eye movement and EEG recordings}}.
+\newblock In {\em {Proceedings of the 27th Annual CUNY Conference on Sentence
+  Processing}}, page n/a, Columbus, OH, USA, 2014.
+
+\bibitem{NicenboimEtAl2014CUNY}
+Bruno Nicenboim, Shravan Vasishth, Reinhold Kliegl, Carolina Gattei, and
+  Mariano Sigman.
+\newblock {\bf Working-memory capacity modulates antilocality effects in
+  syntactic dependencies}.
+\newblock In {\em {Proceedings of the 27th Annual CUNY Conference on Sentence
+  Processing}}, page n/a, Columbus, OH, USA, 2014.
+
+\bibitem{SorensenVasishthTutorialBAYSM}
+Tanner Sorensen and Shravan Vasishth.
+\newblock {\bf Fitting linear mixed models using {JAGS and Stan}: {A}
+  tutorial}.
+\newblock 2014.
+\newblock Poster at Baysm conference.
+
+\bibitem{Vasishth2014CUNY}
+Shravan Vasishth.
+\newblock {\bf A Bayesian meta-analysis of the Chinese relative clause
+  question}.
+\newblock In {\em {Proceedings of the 27th Annual CUNY Conference on Sentence
+  Processing}}, page n/a, Columbus, OH, USA, 2014.
+
+\bibitem{Vasishth2014EAPL2}
+Shravan Vasishth.
+\newblock {\bf A Bayesian meta-analysis of the Chinese relative clause
+  question}.
+\newblock In {\em {Proceedings of the East Asian Psycholinguistics
+  Conference}}, page n/a, Chicago, IL, USA, 2014.
+
+\bibitem{MalsburgEtAl2014CUNY}
+Titus von~der Malsburg, Paul Metzner, Shravan Vasishth, and Frank Rösler.
+\newblock {\bf Using co-registration of eye movements and event-related brain
+  potentials to study the processing of anaphoric dependencies}.
+\newblock In {\em {Proceedings of the CUNY Conference on Sentence Processing}},
+  page n/a, Columbus, OH, USA, 2014.
+
+\bibitem{EngelmannEtAl2014CUNY}
+Felix Engelmann and Shravan Vasishth.
+\newblock {\bf Predicting individual differences in underspecification: {A}n
+  integrated model of good-enough processing}.
+\newblock In {\em {Proceedings of the 27th Annual CUNY Conference on Sentence
+  Processing}}, page n/a, Columbus, OH, USA, 2014.
+
+\bibitem{FrankEtAl2014CUNY}
+Stefan~L. Frank, Thijs Trompenaars, and Shravan Vasishth.
+\newblock {\bf Cross-linguistic differences in processing double-embedded
+  relative clauses: {W}orking-memory constraints or language statistics?}
+\newblock In {\em {Proceedings of the 27th Annual CUNY Conference on Sentence
+  Processing}}, page n/a, Columbus, OH, USA, 2014.
+
+\bibitem{husainvasishthamlap2014}
+Samar Husain and Shravan Vasishth.
+\newblock {\bf Reactivation effects interact with expectation strength}.
+\newblock In {\em Proceedings of the {AMLaP Conference}}, Edinburgh, UK, 2014.
+
+\bibitem{JaegeretalLola2013}
+Lena J{\"a}ger, Lena Benz, Brian Dillon, and Shravan Vasishth.
+\newblock {\bf Grammatical gender does not lead to similarity-based
+  interference}.
+\newblock In Kenneth Holmqvist, F.~Mulvey, and Roger Johansson, editors, {\em
+  {Book of abstracts of the 17th European Conference on Eye Movements}}, Lund,
+  Sweden, 2013. Journal of Eye Movement Research.
+
+\bibitem{Jager2013b}
+Lena J\"{a}ger, Lena Benz, Brian~W. Dillon, and Shravan Vasishth.
+\newblock {\bf {Teasing apart encoding from retrieval interference in
+  reflexives}}.
+\newblock In {\em AMLaP Conference}, Marseille, 2013. Aix-Marseille
+  Universit{'e}.
+
+\bibitem{jaegervasishthchenlin2012}
+Lena {J\"ager}, Shravan Vasishth, Zhong Chen, and Charles Lin.
+\newblock {\bf Eyetracking evidence for the subject relative advantage in
+  Mandarin}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, 2013.
+
+\bibitem{Kentneretal2013}
+Gerrit Kentner and Shravan Vasishth.
+\newblock {\bf {Implicit rhythm co-determines contextual integration in
+  reading}}.
+\newblock In {\em AMLaP Conference}, Marseille, 2013. Aix-Marseille
+  Universit'e.
+
+\bibitem{Kovacsetal2013}
+N{\'o}ra Kov{\'a}cs and Shravan Vasishth.
+\newblock {\bf The processing of relative clauses in {Hungarian}}.
+\newblock In Cheryl Frenck-Mestre, F-Xavier Alario, No?l Nguyen, Philippe
+  Blache, and Christine Meunier, editors, {\em {Proceedings of the Conference
+  on Architectures and Mechanisms for Language Processing}}, Marseille, 2013.
+  Aix-Marseille Universit?
+
+\bibitem{Logacev2013}
+Pavel Loga{\v c}ev and Shravan Vasishth.
+\newblock {\bf A Multiple-Channel Model of Task-Dependent Ambiguity Resolution
+  in Sentence Comprehension}.
+\newblock In {\em {Proceedings of AMLaP Conference. Marseille, France}}, 2013.
+\newblock Winner of the best poster award at the conference.
+
+\bibitem{mccurdyvasishth2012}
+Kate McCurdy, Gerrit Kentner, and Shravan Vasishth.
+\newblock {\bf Implicit prosody and contextual bias in silent reading}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, 2013.
+
+\bibitem{Metzner2013a}
+Paul Metzner, Titus {von~der~Malsburg}, Shravan Vasishth, and Frank R{\"o}sler.
+\newblock {\bf Oscillatory brain dynamics differ between natural reading and
+  serial presentation}.
+\newblock In Roger Johansson, editor, {\em {Proceedings of the 17th European
+  Conference on Eye Movements}}, Lund, Sweden, 2013.
+
+\bibitem{Metzner2013b}
+Paul Metzner, Titus {von~der~Malsburg}, Shravan Vasishth, and Frank R{\"o}sler.
+\newblock {\bf World-knowledge violations elicit different rhythmic brain
+  activity in natural reading and serial presentation}.
+\newblock In {\em Proceedings of the 19th Architectures and Mechanisms for
+  Language Processing}, Marseille, France, 2013.
+
+\bibitem{MetznerEtAlECEM2013}
+Paul Metzner, Titus {von~der~Malsburg}, Shravan Vasishth, and Frank R?sler.
+\newblock {\bf Oscillatory brain dynamics differ between natural reading and
+  serial presentation}.
+\newblock In Kenneth Holmqvist, F.~Mulvey, and Roger Johansson, editors, {\em
+  {Book of abstracts of the 17th European Conference on Eye Movements}}, Lund,
+  Sweden, 2013. Journal of Eye Movement Research.
+
+\bibitem{NicenboimEtAl2013}
+Bruno Nicenboim, Shravan Vasishth, Carolina Gattei, Pavel Logačev, and Mariano
+  Sigman.
+\newblock {\bf The Effect of Distance on Unbounded Dependencies: An Individual
+  Differences Perspective}.
+\newblock In {\em {AMLAP} Conference}, 2013.
+
+\bibitem{paapevasishthmalsburg2012}
+Dario Paape, Shravan Vasishth, and Titus {von~der~Malsburg}.
+\newblock {\bf Local coherence and digging-in effects in {G}erman}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, 2013.
+
+\bibitem{PatiletalAoA2013}
+Umesh Patil, Sandra Hanne, Shravan Vasishth, Frank Burchert, and Ria~De Bleser.
+\newblock {\bf Evaluating the {Trace Deletion Hypothesis} and processing
+  deficit accounts: {A} computational modeling approach}.
+\newblock In {\em 51st Annual Meeting of the Academy of Aphasia}, Lucerne,
+  Switzerland, 2013.
+
+\bibitem{PatiletalProcedia2013}
+Umesh Patil, Sandra Hanne, Shravan Vasishth, Frank Burchert, and Ria~De Bleser.
+\newblock {\bf {Evaluating the Trace Deletion Hypothesis and processing deficit
+  accounts: a computational modeling approach}}.
+\newblock In {\em {Procedia Behavioral and Social Sciences}}, volume~94, pages
+  15--16, Edinburgh, 2013.
+
+\bibitem{patilvasishthhanneburchert2012}
+Umesh Patil, Shravan Vasishth, Sandra Hanne, and Frank Burchert.
+\newblock {\bf Modeling individual differences in processing deficits in
+  aphasia}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, 2013.
+
+\bibitem{MalsburgEtAlECEM2013_coreg}
+Titus {von~der~Malsburg}, Paul Metzner, Shravan Vasishth, and Frank R?sler.
+\newblock {\bf Co-registration of eye movements and brain potentials as a tool
+  for research on reading and language comprehension}.
+\newblock In Kenneth Holmqvist, F.~Mulvey, and Roger Johansson, editors, {\em
+  {Book of abstracts of the 17th European Conference on Eye Movements}}, Lund,
+  Sweden, 2013. Journal of Eye Movement Research.
+
+\bibitem{benzjaegerhofmeistervasishth2012}
+Lena Benz, Lena {J\"ager}, Philip Hofmeister, and Shravan Vasishth.
+\newblock {\bf Non-structural Search in Reflexive Resolution: {E}ye-tracking
+  while Reading}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, 2013.
+
+\bibitem{Engelmann2013}
+Felix Engelmann, Shravan Vasishth, Ralf Engbert, and Reinhold Kliegl.
+\newblock {\bf {A cognitive model interfacing eye movements with parsing}}.
+\newblock In {\em 17th European Conference on Eye Movements}, Lund, SE, 2013.
+
+\bibitem{engelmannvasishthengbertkliegl2012}
+Felix Engelmann, Shravan Vasishth, Ralf Engbert, and Reinhold Kliegl.
+\newblock {\bf An {ACT-R} model interfacing eye movements with parsing}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, 2013.
+
+\bibitem{MalsburgEtAlECEM2013_scanpaths}
+Titus {von~der~Malsburg}, Shravan Vasishth, and Reinhold Kliegl.
+\newblock {\bf Scanpaths in reading are tractable and informative}.
+\newblock In Kenneth Holmqvist, F.~Mulvey, and Roger Johansson, editors, {\em
+  {Book of abstracts of the 17th European Conference on Eye Movements}}, Lund,
+  Sweden, 2013. Journal of Eye Movement Research.
+
+\bibitem{Engelmann2013b}
+Felix Engelmann, Shravan Vasishth, Ralf Engbert, and Reinhold Kliegl.
+\newblock {\bf {Interfacing parsing and eye movement control in reading}}.
+\newblock In {\em Talk at the 20th European ACT-R Workshop in Groningen},
+  Groningen, NL, 2013.
+
+\bibitem{husainbhattvasishth2013}
+S.~Husain, R.~Bhatt, and S.~Vasishth.
+\newblock {\bf {Towards a psycholinguistically motivated dependency grammar for
+  Hindi}}.
+\newblock In {\em {Proceedings of the International Conference on Dependency
+  Linguistics, Prague}}, 2013.
+
+\bibitem{HVS2013}
+Samar Husain, Shravan Vasishth, and Narayanan Srinivasan.
+\newblock {\bf Locality effects depend on processing load and expectation
+  strength}.
+\newblock In {\em {Proceedings of AMLaP Conference. Marseille, France}}, 2013.
+
+\bibitem{MalsburgEtAl2012Coling}
+Titus {von~der~Malsburg}, Shravan Vasishth, and Reinhold Kliegl.
+\newblock {\bf Scanpaths in reading are informative about sentence processing}.
+\newblock In Pushpak~Bhattacharya Michael~Carl and Kamal~Kumar Choudhary,
+  editors, {\em {Proceedings of the First Workshop on Eye-tracking and Natural
+  Language Processing}}, Mumbai, India, December 2012. The COLING 2012
+  Organizing Committee.
+
+\bibitem{PatiletalGLOW2012}
+Umesh Patil, Shravan Vasishth, and R.~L. Lewis.
+\newblock {\bf Early effect of retrieval interference on reflexive binding}.
+\newblock In {\em GLOW Conference}, Potsdam, Germany, 2012.
+
+\bibitem{shahervasishth2012}
+Rukshin Shaher and Shravan Vasishth.
+\newblock {\bf Lexical disambiguation using parafoveal information}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, 2012.
+
+\bibitem{MalsburgetalCUNY2012}
+Titus {von~der~Malsburg}, Reinhold Kliegl, and Shravan Vasishth.
+\newblock {\bf Determinants of scanpath regularity in reading}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, New York, NY,
+  2012.
+
+\bibitem{Benzetal2012}
+Lena Benz, Shravan Vasishth, and Malte Zimmermann.
+\newblock {\bf The activated set of focus alternatives facilitates the
+  processing of ellipses}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, New York, NY,
+  2012.
+
+\bibitem{ChenetalCUNY2012}
+Zhong Chen, Lena {J\"ager}, Qiang Li, and Shravan Vasishth.
+\newblock {\bf Structural-frequency affects processing cost: {E}vidence from
+  {C}hinese relative clauses}.
+\newblock In {\em Annual CUNY Sentence Processing Conference}, New York, NY,
+  2012.
+
+\bibitem{Engelmann2012}
+Felix Engelmann, Shravan Vasishth, Ralf Engbert, and Reinhold Kliegl.
+\newblock {\bf {An ACT-R framework for modeling the interaction of syntactic
+  processing and eye movement control}}.
+\newblock In Dianne Bradley, Eva Fernández, and Janet~Dean Fodor, editors,
+  {\em 25th Annual CUNY Conference on Human Sentence Processing}, page~54, New
+  York, NY, USA, 2012. CUNY Graduate School.
+
+\bibitem{PatiletalCUNY2011}
+Umesh Patil, Sandra Hanne, Shravan Vasishth, Ria~De Bleser, and Frank Burchert.
+\newblock {\bf Modeling aphasic sentence comprehension in a cue-based retrieval
+  architecture}.
+\newblock In {\em {CUNY Sentence Processing Conference}}, Palo Alto, CA, 2011.
+
+\bibitem{PatiletalAoA2011}
+Umesh Patil, Sandra Hanne, Shravan Vasishth, Ria~De Bleser, and Frank Burchert.
+\newblock {\bf Modeling offline and online (eye movements) sentence
+  comprehension in aphasia using the cue-based retrieval architecture}.
+\newblock In {\em {Academy of Aphasia}}, Montr\'{e}al, Canada, 2011.
+
+\bibitem{PatilVasishthLewisPsycholinguistics2011}
+Umesh Patil, Shravan Vasishth, and Richard Lewis.
+\newblock {\bf Are grammatical constraints immune to retrieval interference?}
+\newblock In {\em {International Symposium of Psycholinguistics}}, San
+  Sebasti\'{a}n, Spain, 2011.
+
+\bibitem{PatilVasishthLewisCUNY2011}
+Umesh Patil, Shravan Vasishth, and Richard Lewis.
+\newblock {\bf Early retrieval interference in syntax-guided antecedent
+  search}.
+\newblock In {\em {CUNY Sentence Processing Conference}}, Palo Alto, CA, 2011.
+
+\bibitem{ShaherVasishthSrinivasanCUNY2011}
+Rukshin Shaher, Shravan Vasishth, and Narayanan Srinivasan.
+\newblock {\bf Clefting and left-dislocation facilitate accessibility at the
+  discourse-level}.
+\newblock In {\em {CUNY Sentence Processing Conference}}, Palo Alto, CA, 2011.
+
+\bibitem{shaher_clefting_2011}
+Rukshin Shaher, Shravan Vasishth, and Narayanan Srinivasan.
+\newblock {\bf Clefting and left-dislocation facilitate accessibility at the
+  discourse-level}.
+\newblock Amherst, {MA}, 2011.
+
+\bibitem{MalsburgKlieglVasishthECEM2011}
+Titus {von~der~Malsburg}, Reinhold Kliegl, and Shravan Vasishth.
+\newblock {\bf A scanpath measure reveals effects of age of reader and
+  syntactic complexity of sentences}.
+\newblock In {\em {Abstracts of the 16th European Conference on Eye
+  Movements}}, Marseilles, France, 2011.
+\newblock Published in Journal of Eye Movement Research, 4(3).
+
+\bibitem{MalsburgVasishthCUNY2011}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf Eye-movement strategies for dealing with garden-path sentences}.
+\newblock In {\em {CUNY Sentence Processing Conference}}, Palo Alto, CA, 2011.
+
+\bibitem{MalsburgVasishthXSymp2011}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf Strategies for dealing with attachment ambiguities in Spanish}.
+\newblock In {\em Proceedings of the 10th Symposium of Psycholinguistics}, San
+  Sebasti√°n, Spain, 2011.
+
+\bibitem{ChenVasishthCUNY2011}
+Zhong Chen and Shravan Vasishth.
+\newblock {\bf Does the parser exclusively use structure-sensitive search in
+  reflexives? {Evidence from Mandarin Chinese}}.
+\newblock In {\em {CUNY Sentence Processing Conference}}, Palo Alto, CA, 2011.
+
+\bibitem{Hanne:2011a}
+S.~Hanne, U.~Patil, F.~Burchert, R.~{De~Bleser}, and S.~Vasishth.
+\newblock {\bf Aphasic sentence comprehension disorders from a computational
+  modeling perspective}.
+\newblock In {\em {Proceedings of Science of Aphasia XII}}, 2011.
+
+\bibitem{vasishthdrenhausmalsburgCUNY10}
+Shravan Vasishth, Heiner Drenhaus, and Titus {von~der~Malsburg}.
+\newblock {\bf Integration difficulty and expectation-based syntactic
+  comprehension}.
+\newblock In {\em {Proceedings of the CUNY Conference}}, New York City, NY,
+  2010. NYU.
+
+\bibitem{malsburgvasishthCUNY10}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf Reanalysis strategies in temporarily ambiguous sentences - a
+  scanpath analysis}.
+\newblock In {\em {Proceedings of the CUNY Conference}}, New York City, NY,
+  2010. NYU.
+
+\bibitem{barteklewisvasishthCUNY10}
+Brian Bartek, Richard Lewis, and Shravan Vasishth.
+\newblock {\bf Distinguishing Effects of Expectation and Integration in
+  Non-local Dependencies}.
+\newblock In {\em {Proceedings of the CUNY Conference}}, New York City, NY,
+  2010. NYU.
+
+\bibitem{chenguolivasishthCUNY10}
+Zhong Chen, Gueilan Guo, Qiang Li, and Shravan Vasishth.
+\newblock {\bf Integration cost or structural frequency? The evidence from
+  Chinese relative clauses}.
+\newblock In {\em {Proceedings of the CUNY Conference}}, New York, NY, 2010.
+  NYU.
+
+\bibitem{chenvasishth09}
+Zhong Chen and Shravan Vasishth.
+\newblock {\bf Locality cost in sentence comprehension: {Evidence} from
+  {C}hinese}.
+\newblock In {\em Proceedings of the {LSA Conference}}, 2010.
+
+\bibitem{gerthbostonhalevasishthCUNY10}
+Sabrina Gerth, Marisa~Ferrara Boston, John Hale, and Shravan Vasishth.
+\newblock {\bf Predicting differences in sentence processing difficulty with an
+  implemented complexity metric}.
+\newblock In {\em {Proceedings of the CUNY Conference}}, New York City, NY,
+  2010. NYU.
+
+\bibitem{logacevvasishthamlap09}
+Pavel Loga{\v c}ev and Shravan Vasishth.
+\newblock {\bf Retrieval Interference in Sentence Comprehension: {N}ew theory
+  and data}.
+\newblock In {\em Proceedings of {AMLaP}}, Barcelona, Spain, 2009. University
+  of Barcelona.
+
+\bibitem{patilvasishthkliegl09}
+Umesh Patil, Shravan Vasishth, and Reinhold Kliegl.
+\newblock {\bf {Compound effect of probabilistic disambiguation and memory
+  retrievals on sentence processing: Evidence from an eye-tracking corpus}}.
+\newblock In A.~Howes, D.~Peebles, and R.~Cooper, editors, {\em Proceedings of
+  {9th International Conference on Cognitive Modeling}}, Manchester, UK, 2009.
+
+\bibitem{leuven09}
+Rukshin Shaher, Felix Engelmann, Pavel Loga{\v c}ev, Shravan Vasishth, and
+  Narayanan Srinivasan.
+\newblock {\bf The integration advantage due to clefting and topicalization}.
+\newblock In {\em Proceedings of Information Structure: Between Linguistics and
+  Psycholinguistics}, Leuven, Belgium, 2009.
+
+\bibitem{glow09}
+Rukshin Shaher, Felix Engelmann, Pavel Loga{\v c}ev, Shravan Vasishth, and
+  Narayanan Srinivasan.
+\newblock {\bf The integration advantage due to clefting and topicalization}.
+\newblock In {\em Proceedings of {GLOW in Asia}}, Hyderabad, India, 2009.
+
+\bibitem{vasishthECEM09}
+Shravan Vasishth, Marisa~F. Boston, John~T. Hale, and Reinhold Kliegl.
+\newblock {\bf Determinants of parsing difficulty}.
+\newblock In {\em Proceedings of {ECEM}}, Southampton, UK, 2009. University of
+  Southampton.
+\newblock Talk.
+
+\bibitem{vdmalsburgvasishthECEM09}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf Individual differences in scanpaths and reanalysis strategies
+  while reading temporarily ambiguous sentences}.
+\newblock In {\em Proceedings of {ECEM}}, Southampton, UK, 2009. University of
+  Southampton.
+\newblock Talk.
+
+\bibitem{vdmalsburgvasishthitaly09}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf Readers use different strategies to recover from garden-paths}.
+\newblock In {\em Proceedings of the Summer School on Embodied Language Games
+  and Construction Grammar}, Cortona, Italy, 2009.
+
+\bibitem{malsburgCUNY09}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf A Software for Analyzing Spatio-Temporal Patterns in
+  Eye-Movements}.
+\newblock In {\em {Proceedings of CUNY Sentence Processing Conference}}, Davis,
+  CA, 2009. University of California, Davis, University of California, Davis.
+
+\bibitem{bostonetalCUNY09}
+Marisa~Ferrara Boston, John~T. Hale, Shravan Vasishth, and Reinhold Kliegl.
+\newblock {\bf Examining syntactic factors in eye fixation durations}.
+\newblock In {\em Proceedings of the {CUNY} {C}onference}, Davis, CA, 2009.
+  University of California, Davis.
+
+\bibitem{engelmannvasishth09}
+Felix Engelmann and Shravan Vasishth.
+\newblock {\bf {Processing grammatical and ungrammatical center embeddings in
+  English and German: A computational model}}.
+\newblock In A.~Howes, D.~Peebles, and R.~Cooper, editors, {\em Proceedings of
+  {9th International Conference on Cognitive Modeling}}, Manchester, UK, 2009.
+
+\bibitem{engelmannvasishthamlap09}
+Felix Engelmann and Shravan Vasishth.
+\newblock {\bf Processing grammatical and ungrammatical center embeddings in
+  {E}nglish and {G}erman: {A} computational model}.
+\newblock In {\em Proceedings of {AMLaP}}, Barcelona, Spain, 2009. University
+  of Barcelona.
+
+\bibitem{hanneetalAoA09}
+Sandra Hanne, Irina Sekerina, Shravan Vasishth, Frank Burchert, and Ria~De
+  Bleser.
+\newblock {\bf Chance in agrammatic sentence comprehension: What does it really
+  mean? Evidence from Eye Movements of German Agrammatic Aphasics}.
+\newblock In Matt Goldrick, editor, {\em Proceedings of Academy of Aphasia
+  Conference}, Boston, MA, 2009.
+
+\bibitem{shaheramlap08}
+Rukshin Shaher, Pavel Loga{\v c}ev, Felix Engelmann, Narayanan Srinivasan, and
+  Shravan Vasishth.
+\newblock {\bf Clefting, topicalization and the given-new preference:
+  {E}yetracking evidence from {H}indi}.
+\newblock In {\em Proceedings of {AMLaP} {C}onference}, Cambridge, 2008.
+
+\bibitem{vdmalsburgvasishthcunyd08}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf A New Method for Analyzing Eye Movements in Reading that Is
+  Sensitive to Spatial and Temporal Patterns in Sequences of Fixations}.
+\newblock In {\em Proceedings of the {CUNY} sentence processing conference},
+  North Carolina, 2008.
+
+\bibitem{bostonetalACL}
+Marisa~Ferrara Boston, John~T. Hale, Reinhold Kliegl, and Shravan Vasishth.
+\newblock {\bf Surprising parser actions and reading difficulty}.
+\newblock In {\em {Proceedings of ACL-08: HLT Short Papers}}, pages 5--8,
+  Columbus, OH, 2008. The Ohio State University.
+
+\bibitem{hanneamlap08}
+Sandra Hanne, Irina Sekerina, Shravan Vasishth, Frank Burchert, and Ria~De
+  Bleser.
+\newblock {\bf Processing of Noncanonical Sentences in German Agrammatic
+  Aphasia: {E}vidence from Eye Movements}.
+\newblock In {\em Proceedings of {AMLaP} {C}onference}, Cambridge, UK, 2008.
+
+\bibitem{hanneSOA08}
+Sandra Hanne, Irina Sekerina, Shravan Vasishth, Frank Burchert, and Ria~De
+  Bleser.
+\newblock {\bf Processing of Noncanonical Sentences in {G}erman Agrammatic
+  Aphasia: {E}vidence from Eye Movements}.
+\newblock In {\em Proceedings of {Science of Aphasia} {C}onference},
+  Chalkidiki, Greece, 2008.
+
+\bibitem{logvas07}
+Pavel Loga{\v c}ev and Shravan Vasishth.
+\newblock {\bf Case overwriting effects in German}.
+\newblock In {\em Proceedings of the {CUNY} sentence processing conference}, La
+  Jolla, CA, 2007.
+
+\bibitem{somvaslog07}
+Esther Sommerfeld, Shravan Vasishth, Pavel Loga{\v c}ev, Maike Baumann, and
+  Heiner Drenhaus.
+\newblock {\bf A two-phase model of integration processes in sentence parsing:
+  {L}ocality and antilocality effects in German}.
+\newblock In {\em Proceedings of the {CUNY} sentence processing conference}, La
+  Jolla, CA, 2007.
+
+\bibitem{vdmalsburgvasishthecem07}
+Titus {von~der~Malsburg} and Shravan Vasishth.
+\newblock {\bf A Time-Sensitive Similarity Measure for Scanpaths}.
+\newblock In {\em Proceedings of the {ECEM}}, Potsdam, Germany, 2007.
+
+\bibitem{bslv07}
+Brian Bartek, Mason Smith, Richard~L. Lewis, and Shravan Vasishth.
+\newblock {\bf Linking Working Memory Processes with Self-paced Reading and
+  Eyetracking Measures: How Lexical Processing Load and SPR Exaggerate locality
+  effects}.
+\newblock In {\em Proceedings of the {CUNY} sentence processing conference}, La
+  Jolla, CA, 2007.
+
+\bibitem{DVWP}
+Heiner Drenhaus, Shravan Vasishth, Kristin Wittich, and Umesh Patil.
+\newblock {\bf Locality and working memory capacity: {A}n {ERP} study of
+  {G}erman}.
+\newblock In {\em Proceedings of the {AMLaP} Conference}, Turku, Finland, 2007.
+
+\bibitem{gug06}
+Katja Suckow, Shravan Vasishth, Richard~L. Lewis, and Mason Smith.
+\newblock {\bf Interference and memory overload during parsing of grammatical
+  and ungrammatical embeddings}.
+\newblock In {\em Proceedings of the {CUNY} {S}entence {P}rocessing
+  {C}onference}, New York City, March 2006. CUNY.
+
+\bibitem{VasishthetalNPICUNY06}
+Shravan Vasishth, Sven Bruessow, Richard~L. Lewis, and Heiner Drenhaus.
+\newblock {\bf Processing constraints on negative and positive polarity}.
+\newblock In {\em Proceedings of the {AMLaP} {S}entence {P}rocessing
+  {C}onference}, New York City, March 2006. CUNY.
+
+\bibitem{warrenetalNPICUNY06}
+Tessa Warren, Shravan Vasishth, Masako Hirotani, and Heiner Drenhaus.
+\newblock {\bf Licensor strength and locality effects in negative polarity
+  licensing}.
+\newblock In {\em Proceedings of the {CUNY} {S}entence {P}rocessing
+  {C}onference}, CUNY, New York City, 2006.
+
+\bibitem{piaetalcuny05}
+Pia Knoeferle, Shravan Vasishth, Matthew Crocker, and Richard Lewis.
+\newblock {\bf Effects of {NP}-type, {NP}-similarity, and cleft-type in reading
+  {G}erman sentences}.
+\newblock In {\em Proceedings of the {CUNY} {S}entence {P}rocessing
+  {C}onference}, University of Arizona, 2005.
+
+\end{thebibliography}

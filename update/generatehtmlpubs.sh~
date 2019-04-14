@@ -1,0 +1,4 @@
+#!/bin/sh
+
+~/bin/bibtex2html -s dsgplain2  --nobibsource -nf pdf "pdf" -nf code "code+data" -nokeys -dl -a testvasishth.bib
+
