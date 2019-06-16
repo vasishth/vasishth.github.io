@@ -19,7 +19,7 @@ cd ~/Dropbox/Bibliography/
 
 ~/bin/bib2bib -ob vasishthunpub.bib -c 'author : "Vasishth"' -c '$type="UNPUBLISHED" or $type="unpublished"' bibcleaned.bib
 
-~/bin/bib2bib -oc vasishthinproc -ob vasishthinproc.bib -c 'author : "Vasishth"' -c '$type="INPROCEEDINGS" or $type="inproceedings"' -c 'year>2016' bibcleaned.bib
+~/bin/bib2bib -oc vasishthinproc -ob vasishthinproc.bib -c 'author : "Vasishth"' -c '$type="INPROCEEDINGS" or $type="inproceedings"' -c 'year>2017' bibcleaned.bib
 
 cp vasishtharticles.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
 cp vasishthunpub.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
