@@ -21,12 +21,12 @@ cd ~/Dropbox/Bibliography/
 
 ~/bin/bib2bib -oc vasishthinproc -ob vasishthinproc.bib -c 'author : "Vasishth"' -c '$type="INPROCEEDINGS" or $type="inproceedings"' -c 'year>2018' bibcleaned.bib
 
-~/bin/bib2bib -oc books -ob books.bib -c 'author : "Vasishth"' -c '$type="BOOK" or $type="book" or $type="Book"'  bibcleaned.bib
+~/bin/bib2bib -oc vasishthbooks -ob vasishthinproc.bib -c 'author : "Vasishth"' -c '$type="BOOK" or $type="book" or $type="Book"'  bibcleaned.bib
 
 cp vasishtharticles.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
 cp vasishthunpub.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
 cp vasishthinproc.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
-cp books.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
+cp vasishthbooks.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
 
 cd /Users/shravanvasishth/Git/vasishth.github.io/update/
 
@@ -37,13 +37,13 @@ export TMPDIR=.
 ~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -nf code "code" -dl -a -noabstract vasishtharticles.bib
 ~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -dl -a -noabstract vasishthunpub.bib
 ~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract vasishthinproc.bib
-~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract books.bib
+~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract vasishthbooks.bib
 
 ##strip header junk from bib html files:
 tail -n +16 vasishtharticles.html > tmp.html
 tail -n +16 vasishthunpub.html > tmpunpub.html
 tail -n +16 vasishthinproc.html > tmpinproc.html
-tail -n +16 books.html > tmpbooks.html
+tail -n +16 vasishthbooks.html > tmpbooks.html
 
 
 ## strip last few lines:
@@ -66,7 +66,7 @@ cat booksheader.txt tmpbooks2.html dl.txt > tmpbooks3.html
 mv tmp3.html vasishtharticles.html
 mv tmpunpub3.html vasishthunpub.html
 mv tmpinproc3.html vasishthinproc.html
-mv tmpbooks3.html books.html
+mv tmpbooks3.html vasishthbooks.html
 
 rm tmp2.html
 rm tmpunpub2.html
@@ -77,7 +77,7 @@ rm tmpbooks2.html
 ## move to main web page directory:
 cd ../
 
-cat header2.html update/vasishtharticles.html update/vasishthunpub.html update/vasishthinproc.html update/books.html footer2.html > publications.html
+cat header2.html update/vasishtharticles.html update/vasishthunpub.html update/vasishthinproc.html update/vasishthbooks.html footer2.html > publications.html
 
 ##commit index file:
 git commit -m "updated index file" index.html
