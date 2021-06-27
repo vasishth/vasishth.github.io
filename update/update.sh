@@ -15,13 +15,13 @@ git commit -m "add updated cv" cv/vasishthcv4.pdf
 
 ## change to main bib directory to update articles:
 cd ~/Dropbox/Bibliography/
-~/bin/bib2bib -ob vasishtharticles.bib -c 'author : "Vasishth"' -c '$type ="Article" or $type="ARTICLE" or $type="article" or $type="INCOLLECTION"' bibcleaned.bib
+bib2bib -ob vasishtharticles.bib -sr 'year' -c 'author : "Vasishth"' -c '$type ="Article" or $type="ARTICLE" or $type="article"' bibcleaned.bib
 
-~/bin/bib2bib -ob vasishthunpub.bib -c 'author : "Vasishth"' -c '$type="UNPUBLISHED" or $type="unpublished"' bibcleaned.bib
+bib2bib -ob vasishthunpub.bib -c 'author : "Vasishth"' -c '$type="UNPUBLISHED" or $type="unpublished"' bibcleaned.bib
 
-~/bin/bib2bib -oc vasishthinproc -ob vasishthinproc.bib -c 'author : "Vasishth"' -c '$type="INPROCEEDINGS" or $type="inproceedings"' -c 'year>2018' bibcleaned.bib
+bib2bib -oc vasishthinproc -ob vasishthinproc.bib -c 'author : "Vasishth"' -c '$type="INPROCEEDINGS" or $type="inproceedings"' -c 'year>2019' bibcleaned.bib
 
-~/bin/bib2bib -oc books -ob books.bib -c 'author : "Vasishth"' -c '$type="BOOK" or $type="book" or $type="Book"'  bibcleaned.bib
+bib2bib -oc books -ob books.bib -c 'author : "Vasishth"' -c '$type="BOOK" or $type="book" or $type="Book"'  bibcleaned.bib
 
 cp vasishtharticles.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
 cp vasishthunpub.bib /Users/shravanvasishth/Git/vasishth.github.io/update/
@@ -34,10 +34,10 @@ cd /Users/shravanvasishth/Git/vasishth.github.io/update/
 
 export TMPDIR=.
 
-~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -nf code "code" -dl -a -noabstract vasishtharticles.bib
-~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -dl -a -noabstract vasishthunpub.bib
-~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract vasishthinproc.bib
-~/bin/bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract books.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -nf code "code" -dl -a -noabstract vasishtharticles.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -dl -a -noabstract vasishthunpub.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract vasishthinproc.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract books.bib
 
 ##strip header junk from bib html files:
 tail -n +16 vasishtharticles.html > tmp.html
