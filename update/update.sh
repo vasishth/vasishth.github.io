@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 ## update cv: change to CV dir, and then run script:
@@ -15,7 +14,7 @@ git commit -m "add updated cv" cv/vasishthcv4.pdf
 
 ## change to main bib directory to update articles:
 cd ~/Dropbox/Bibliography/
-bib2bib -ob vasishtharticles.bib -sr 'year' -c 'author : "Vasishth"' -c '$type ="Article" or $type="ARTICLE" or $type="article"' bibcleaned.bib
+bib2bib -ob vasishtharticles.bib -s 'year' -r -c 'author : "Vasishth"' -c '$type ="Article" or $type="ARTICLE" or $type="article"' bibcleaned.bib
 
 bib2bib -ob vasishthunpub.bib -c 'author : "Vasishth"' -c '$type="UNPUBLISHED" or $type="unpublished"' bibcleaned.bib
 
@@ -57,7 +56,6 @@ rm tmpunpub.html
 rm tmpinproc.html
 rm tmpbooks.html
 
-
 cat tmp2.html dl.txt > tmp3.html
 cat unpubheader.txt tmpunpub2.html dl.txt > tmpunpub3.html
 cat inprocheader.txt tmpinproc2.html dl.txt > tmpinproc3.html
@@ -73,7 +71,6 @@ rm tmpunpub2.html
 rm tmpinproc2.html
 rm tmpbooks2.html
 
-
 ## move to main web page directory:
 cd ../
 
@@ -88,4 +85,3 @@ git commit -m "updated pubs" publications.html
 ##commit cv
 git commit -m "updated cv" cv/vasishthcv4.pdf
 
-git push
