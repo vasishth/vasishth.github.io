@@ -33,7 +33,7 @@ cd /Users/shravanvasishth/Git/vasishth.github.io/update/
 
 export TMPDIR=.
 
-bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf -nf doi "doi" -nf pdf "pdf" -nf code "code" -dl -noabstract vasishtharticles.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf doi "doi" -nf pdf "pdf" -nf code "code" -dl -noabstract vasishtharticles.bib
 bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -dl -noabstract vasishthunpub.bib
 bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -noabstract vasishthinproc.bib
 bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -noabstract books.bib
