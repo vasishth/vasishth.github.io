@@ -33,10 +33,10 @@ cd /Users/shravanvasishth/Git/vasishth.github.io/update/
 
 export TMPDIR=.
 
-bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -nf code "code" -dl -a -noabstract vasishtharticles.bib
-bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -dl -a -noabstract vasishthunpub.bib
-bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract vasishthinproc.bib
-bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -a -noabstract books.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf doi "doi" -nf pdf "pdf" -nf code "code" -dl -noabstract vasishtharticles.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource -nf pdf "pdf" -dl -noabstract vasishthunpub.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -noabstract vasishthinproc.bib
+bibtex2html -s dsgplain2 -nokeywords  --nobibsource               -dl -noabstract books.bib
 
 ##strip header junk from bib html files:
 tail -n +16 vasishtharticles.html > tmp.html
@@ -85,3 +85,4 @@ git commit -m "updated pubs" publications.html
 ##commit cv
 git commit -m "updated cv" cv/vasishthcv4.pdf
 
+git push
