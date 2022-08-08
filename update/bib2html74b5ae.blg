@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/MacPorts 2021.58693_0)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bib2html74b5ae.aux
+The style file: dsgplain2.bst
+Database file #1: vasishthunpub.bib
+Repeated entry---line 132 of file vasishthunpub.bib
+ : @unpublished{MertzenEtAl2021
+ :                             ,
+I'm skipping whatever remains of this entry
+You've used 11 entries,
+            2397 wiz_defined-function locations,
+            619 strings with 7148 characters,
+and the built_in function-call counts, 3675 in all, are:
+= -- 414
+> -- 243
+< -- 0
++ -- 120
+- -- 84
+* -- 277
+:= -- 672
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 75
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 88
+empty$ -- 155
+format.name$ -- 84
+if$ -- 706
+int.to.chr$ -- 0
+int.to.str$ -- 33
+missing$ -- 0
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 75
+quote$ -- 0
+skip$ -- 57
+stack$ -- 0
+substring$ -- 201
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 0
+while$ -- 22
+width$ -- 13
+write$ -- 112
+(There was 1 error message)
