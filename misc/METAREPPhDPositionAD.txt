@@ -1,0 +1,50 @@
+Dear colleagues
+
+We are looking for a PhD student for a research project on Bayesian modeling.
+The project is funded by the German Science Foundation starting in early 2025
+and will be located at the University of Potsdam near Berlin, Germany. It is a
+collaboration between Julia Haaf (Psychology), Shravan Vasishth (Linguistics),
+and Audrey Bürki (Psychology and Linguistics). The PhD itself can be in
+Psychology or Cognitive Science.
+
+The successful candidate will have
+
+1. a master's degree in psychology, linguistics, cognitive science, or a related
+field;
+
+2. an interest and experience in programming and in using statistical software
+(R, python, and the like; preference for R);
+
+3. an interest and experience in designing and conducting behavioral
+experiments;
+
+4. good communication and writing skills in English.
+
+Computational modeling experience using probabilistic programming languages is
+desirable but not required. Knowledge of German is not required for this
+project.
+
+In this project, we aim to advance the study of individual differences in
+cognitive experiments. To achieve this goal, we will design a principled
+workflow for developing Bayesian hierarchical models. This workflow will allow
+researchers to check whether their models are appropriate and whether measures
+of individual differences (e.g., reliability, correlations) are estimated with
+sufficient precision. The planned tools also include a study design tool to plan
+the required number of trials and participants in an experiment. Finally, the
+project has an empirical component to investigate the relationship between
+psycholinguistic and psychological effects of cognitive control.
+
+To be considered for this position, the candidate should send an email to Julia
+Haaf (julia.haaf@uni-potsdam.de). Please write a short cover letter about
+yourself, explaining why you are interested in this position. Please also
+include your curriculum vitae, 1-2 references, and the transcripts from your
+undergraduate and graduate studies. If available, please also include an example
+of written up research (e.g., thesis, course paper, preprint).
+
+Deadline: All applications received by 25 October 2024 will receive full
+consideration, but the search will remain open until the position is filled.
+
+Contact: Prof. Julia Haaf, PhD
+Psychological Methods, Statistics, and Evaluation
+University of Potsdam
+julia.haaf@uni-potsdam.de
